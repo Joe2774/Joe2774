@@ -1,4 +1,3 @@
-/* Mazen project */
 #define BLYNK_TEMPLATE_ID "TMPL2bYxwOku6"
 #define BLYNK_TEMPLATE_NAME "Vision at Risk"
 #define BLYNK_AUTH_TOKEN "wBxEtomvzar7jnfiZ9tWm6hiM2N3iAsx"
